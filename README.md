@@ -7,6 +7,8 @@
 
 This project aims to delve into the realm of Slovenian dialect exploration within the context of creating a Natural Language Inference (NLI) dataset. Our primary goal is to develop a dataset that challenges the comprehension abilities of Large Language Models (LLMs) regarding entailment, neutrality, and contradiction within longer text passages. Additionally, we focus on investigating the capacity of LLMs to accurately replicate various Slovenian dialects, including Štajersko, Notranjsko, and Kraško. Through this exploration, we seek to deepen our understanding of dialectical nuances and their implications for natural language processing tasks.
 
+Since this project focuses on researching Slovenian language, a certain degree of proficiency in the language is required to make use of the findings.
+
 &nbsp;  
 
 # Methodology:
